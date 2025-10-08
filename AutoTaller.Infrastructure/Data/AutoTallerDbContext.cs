@@ -46,7 +46,7 @@ public class AutoTallerDbContext : DbContext
                 .HasMaxLength(20);
             
             entity.Property(e => e.FechaRegistro)
-                .HasDefaultValueSql("CURRENT_TIMESTAMP");
+                .HasDefaultValueSql("CURRENT_TIMESTAMP(6)");
 
             // Relación uno a muchos con Vehículos
             entity.HasMany(e => e.Vehiculos)
@@ -112,7 +112,7 @@ public class AutoTallerDbContext : DbContext
                 .HasDefaultValue(true);
             
             entity.Property(e => e.FechaCreacion)
-                .HasDefaultValueSql("CURRENT_TIMESTAMP");
+                .HasDefaultValueSql("CURRENT_TIMESTAMP(6)");
 
             // Relación uno a muchos con OrdenesServicio (como mecánico)
             entity.HasMany(e => e.OrdenesAsignadas)
@@ -166,7 +166,7 @@ public class AutoTallerDbContext : DbContext
                 .HasDefaultValue(EstadoOrden.Pendiente);
             
             entity.Property(e => e.FechaIngreso)
-                .HasDefaultValueSql("CURRENT_TIMESTAMP");
+                .HasDefaultValueSql("CURRENT_TIMESTAMP(6)");
             
             entity.Property(e => e.FechaEstimada)
                 .IsRequired();
@@ -228,7 +228,7 @@ public class AutoTallerDbContext : DbContext
                 .IsUnique();
             
             entity.Property(e => e.Fecha)
-                .HasDefaultValueSql("CURRENT_TIMESTAMP");
+                .HasDefaultValueSql("CURRENT_TIMESTAMP(6)");
             
             entity.Property(e => e.SubtotalRepuestos)
                 .HasColumnType("decimal(10,2)");
@@ -261,7 +261,7 @@ public class AutoTallerDbContext : DbContext
                 .HasMaxLength(20);
             
             entity.Property(e => e.Timestamp)
-                .HasDefaultValueSql("CURRENT_TIMESTAMP");
+                .HasDefaultValueSql("CURRENT_TIMESTAMP(6)");
             
             entity.Property(e => e.DatosAnteriores)
                 .HasColumnType("json");
