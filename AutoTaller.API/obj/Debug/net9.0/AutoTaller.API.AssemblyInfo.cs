@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoTaller.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b39b141b8ded7d99b46fb842eb4abcbd5b940b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c71e831420e5c20c8cc4b142163d5394eafb7c85")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoTaller.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoTaller.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
