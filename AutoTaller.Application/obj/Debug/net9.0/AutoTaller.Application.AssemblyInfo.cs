@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoTaller.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ef31dbbee8ba58f7ece608e43ebafcb1e99857d")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc0deb77a6ac4668cbd09b99a32cbe317229a057")]
+>>>>>>> parent of d65bcac (s)
 [assembly: System.Reflection.AssemblyProductAttribute("AutoTaller.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoTaller.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

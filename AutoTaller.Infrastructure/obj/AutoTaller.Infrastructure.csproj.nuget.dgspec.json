@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juego\\OneDrive\\Escritorio\\AutoTallerProyecto\\AutoTaller.Infrastructure\\AutoTaller.Infrastructure.csproj": {}
+    "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Infrastructure\\AutoTaller.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juego\\OneDrive\\Escritorio\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj": {
+    "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juego\\OneDrive\\Escritorio\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj",
         "projectName": "AutoTaller.Domain",
-        "projectPath": "C:\\Users\\juego\\OneDrive\\Escritorio\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj",
-        "packagesPath": "C:\\Users\\juego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juego\\OneDrive\\Escritorio\\AutoTallerProyecto\\AutoTaller.Domain\\obj\\",
+        "projectPath": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj",
+        "packagesPath": "C:\\Users\\josej\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\juego\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\josej\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,41 +59,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\juego\\OneDrive\\Escritorio\\AutoTallerProyecto\\AutoTaller.Infrastructure\\AutoTaller.Infrastructure.csproj": {
+    "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Infrastructure\\AutoTaller.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juego\\OneDrive\\Escritorio\\AutoTallerProyecto\\AutoTaller.Infrastructure\\AutoTaller.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Infrastructure\\AutoTaller.Infrastructure.csproj",
         "projectName": "AutoTaller.Infrastructure",
-        "projectPath": "C:\\Users\\juego\\OneDrive\\Escritorio\\AutoTallerProyecto\\AutoTaller.Infrastructure\\AutoTaller.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\juego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juego\\OneDrive\\Escritorio\\AutoTallerProyecto\\AutoTaller.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Infrastructure\\AutoTaller.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\josej\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\juego\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\josej\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\juego\\OneDrive\\Escritorio\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj": {
-                "projectPath": "C:\\Users\\juego\\OneDrive\\Escritorio\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj"
+              "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj": {
+                "projectPath": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj"
               }
             }
           }
@@ -152,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
