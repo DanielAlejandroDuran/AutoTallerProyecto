@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel\\Documents\\AutoTallerProyecto\\AutoTaller.Application\\AutoTaller.Application.csproj": {}
+    "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Application\\AutoTaller.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel\\Documents\\AutoTallerProyecto\\AutoTaller.Application\\AutoTaller.Application.csproj": {
+    "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Application\\AutoTaller.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\AutoTallerProyecto\\AutoTaller.Application\\AutoTaller.Application.csproj",
+        "projectUniqueName": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Application\\AutoTaller.Application.csproj",
         "projectName": "AutoTaller.Application",
-        "projectPath": "C:\\Users\\Daniel\\Documents\\AutoTallerProyecto\\AutoTaller.Application\\AutoTaller.Application.csproj",
-        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\Documents\\AutoTallerProyecto\\AutoTaller.Application\\obj\\",
+        "projectPath": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Application\\AutoTaller.Application.csproj",
+        "packagesPath": "C:\\Users\\josej\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\josej\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Daniel\\Documents\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj": {
-                "projectPath": "C:\\Users\\Daniel\\Documents\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj"
+              "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj": {
+                "projectPath": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj"
               }
             }
           }
@@ -77,17 +77,17 @@
         }
       }
     },
-    "C:\\Users\\Daniel\\Documents\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj": {
+    "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj",
         "projectName": "AutoTaller.Domain",
-        "projectPath": "C:\\Users\\Daniel\\Documents\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj",
-        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\Documents\\AutoTallerProyecto\\AutoTaller.Domain\\obj\\",
+        "projectPath": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Domain\\AutoTaller.Domain.csproj",
+        "packagesPath": "C:\\Users\\josej\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josej\\AutoTallerProyecto\\AutoTaller.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\josej\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
